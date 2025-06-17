@@ -11,7 +11,7 @@ We will employ the ReAct (Reasoning and Act) prompting framework. This framework
 
 ![image](https://github.com/user-attachments/assets/42d19649-954a-4e41-a0ec-6ce4a120deaf)
 
-We will use Python modules in this project to build your chat assistant. Therefore, some template .py files are provided in the Visual Studio Code, available on the right side of the workspace:
+We will use Python modules in this project to build your chat assistant.
 
 utils.py: This file will be used to read the OpenAI API key, allowing you to use the ChatGPT API from OpenAI.
 
